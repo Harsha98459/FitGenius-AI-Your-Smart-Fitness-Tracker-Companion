@@ -1,1 +1,1 @@
-#FitGenius-AI-Your-Smart-Fitness-Tracker-Companion
+FitGenius-AI-Your-Smart-Fitness-Tracker-Companion
