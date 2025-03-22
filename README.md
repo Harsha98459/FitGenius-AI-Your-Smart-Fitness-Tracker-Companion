@@ -1,1 +1,1 @@
-# AICTE-Intership
+#FitGenius-AI-Your-Smart-Fitness-Tracker-Companion
