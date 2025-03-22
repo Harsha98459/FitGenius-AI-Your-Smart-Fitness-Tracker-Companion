@@ -35,7 +35,6 @@ The provided file (`app.py`) is a **Streamlit-based web application** for a fitn
    - **Input Parameters**: Enter your fitness details (age, BMI, exercise duration, etc.) in the sidebar.
    - **Predict Calories**: View the predicted calories burned and personalized recommendations.
 
----
 
 ### **Markdown Description for GitHub**
 
@@ -67,10 +66,6 @@ FitGenius AI is a **Streamlit-based web application** that helps users track the
    ```
 4. Open your browser and navigate to `http://localhost:8501`.
 
-## Screenshots
-![Login Page](https://example.com/path-to-login-screenshot.png)
-![Main App](https://example.com/path-to-main-app-screenshot.png)
-
 ## Technologies Used
 - **Python**: Core programming language.
 - **Streamlit**: For building the web app.
@@ -85,9 +80,6 @@ FitGenius AI is a **Streamlit-based web application** that helps users track the
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 ```
 
----
-
 ### **Notes**:
 - Replace `https://example.com/path-to-your-logo.png` and other placeholder URLs with actual paths to your images or screenshots.
-- Add a `LICENSE` file if you want to specify the license for your project.
 - Ensure the datasets (`calories.csv` and `exercise.csv`) are included in your repository or provide instructions on how to obtain them.
