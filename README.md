@@ -2,7 +2,7 @@
 ![FitGenius AI Logo](https://t4.ftcdn.net/jpg/02/18/46/59/360_F_218465980_2JJETZ9wO9rp2obMr8ANLnX00OTfbpjU.jpg)
 
 FitGenius AI is an innovative, AI-powered fitness tracking platform designed to revolutionize the way individuals approach their health and wellness goals. Combining cutting-edge artificial intelligence with user-friendly features, FitGenius AI serves as a personalized fitness companion that adapts to your unique needs, preferences, and progress.
-# Download the (app.py)file to get started!
+# Download all the file to get started!
 The provided file (`app.py`) is a **Streamlit-based web application** for a fitness tracking and calorie burn prediction tool called **FitGenius AI**. It includes features like user registration, login, input parameter collection (e.g., age, BMI, exercise duration), and a machine learning model (Random Forest Regressor) to predict calories burned. It also provides personalized recommendations and a simple AI chatbot for fitness-related queries.
 
 ---
@@ -71,3 +71,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ### **Notes**:
 - Replace `https://example.com/path-to-your-logo.png` and other placeholder URLs with actual paths to your images or screenshots.
 - Ensure the datasets (`calories.csv` and `exercise.csv`) are included in your repository or provide instructions on how to obtain them.
+
+# About fitness_tracker
+
