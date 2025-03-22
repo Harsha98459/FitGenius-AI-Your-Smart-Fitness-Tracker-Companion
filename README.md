@@ -72,5 +72,8 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 - Replace `https://example.com/path-to-your-logo.png` and other placeholder URLs with actual paths to your images or screenshots.
 - Ensure the datasets (`calories.csv` and `exercise.csv`) are included in your repository or provide instructions on how to obtain them.
 
+
+
+
 # About fitness_tracker
 
