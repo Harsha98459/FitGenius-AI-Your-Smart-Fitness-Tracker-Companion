@@ -35,18 +35,6 @@ The provided file (`app.py`) is a **Streamlit-based web application** for a fitn
    - **Input Parameters**: Enter your fitness details (age, BMI, exercise duration, etc.) in the sidebar.
    - **Predict Calories**: View the predicted calories burned and personalized recommendations.
 
-
-### **Markdown Description for GitHub**
-
-Here’s how you can describe the project in a `README.md` file for GitHub:
-
-```markdown
-# FitGenius AI: Your Smart Fitness Tracker Companion
-
-![FitGenius AI Logo](https://example.com/path-to-your-logo.png)
-
-FitGenius AI is a **Streamlit-based web application** that helps users track their fitness progress and predict calories burned during exercise. It features user authentication, a machine learning model (Random Forest Regressor), and personalized fitness recommendations.
-
 ## Features
 - **User Registration & Login**: Secure authentication system.
 - **Calorie Burn Prediction**: Predicts calories burned based on user inputs (age, BMI, exercise duration, etc.).
