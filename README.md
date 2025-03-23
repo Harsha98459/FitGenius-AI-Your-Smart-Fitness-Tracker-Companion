@@ -80,3 +80,6 @@ The `requirements.txt` file is a text document used in Python projects to list a
 
 # About Users.csv file!
 The `users.csv` file is a Comma-Separated Values (CSV) file that stores user credentials, specifically usernames and passwords. Each row in the file represents a user, with the first column containing the username and the second column containing the corresponding password. This type of file is commonly used in applications to manage user authentication data. However, storing passwords in plain text, as seen in this file, is highly insecure and not recommended. Best practices suggest using hashed passwords and additional security measures to protect sensitive information. 
+
+# Reference Video record
+https://drive.google.com/file/d/1J96ki9LSHpb6ALkx-VdaIIDA1HzzUN52/view?usp=sharing
